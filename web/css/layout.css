@@ -1,0 +1,99 @@
+#header {
+    width: 100vw;
+    box-sizing: border-box;
+    height: 30vh;
+}
+
+#header-logo{
+    float: left;
+    height: 20vh;
+    width: 18vw;
+}
+
+#header-background{
+    height: 25vh;
+    width: 82vw;
+    float: left;
+}
+
+#header-background-img{
+    height: 22vh;
+    width: 100vw;
+    float: left;
+}
+
+#header-background-info{
+    height: 3vh;
+    width: 30vw;
+    margin-left: 40vw;
+    float: left;
+    font-size: 15pt;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    color: red;
+}
+
+
+#header-log-out{
+    height: 3vh;
+    width: 20vw;
+    font-size: 13pt;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    color: brown;
+    float: left;
+    text-decoration: underline;
+}
+
+#header-one{
+    height: 3vh;
+    width: 100vw;
+    float: left;
+}
+
+#header-content{
+    height: 5vh;
+    width: 60vw;
+    float: left;
+    background-color: aliceblue;
+}
+
+#student-semester{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 10vw;
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+#header-home{
+    width: 7vw;
+    float: left;
+    margin-left: 3vw;
+    margin-top: 1.2vh;
+}
+
+#header-register{
+    width: 9vw;
+    float: left;
+    margin-left: 3vw;
+    margin-top: 1.2vh;
+}
+
+#header-view-tkb{
+    width: 7vw;
+    float: left;
+    margin-left: 3vw;
+    margin-top: 1.2vh;
+}
+
+
+.header-text {
+    color: blue;
+    text-decoration: none;
+    font-family: Bahnschrift;
+    line-height: 3vh;
+}

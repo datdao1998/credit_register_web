@@ -1,0 +1,170 @@
+#credit-register-home{
+    background-size: 100vw 100vh; width: 100vw; height: 250vh;
+    background-image: url("http://localhost:8080/CreditRegister/imgs/bg-cr-1.jpg");
+}
+
+#credit-register-div-1{
+    padding-top: 7vh;
+    text-align: center;
+}
+
+#subject-btn-search{
+    font-family: Bahnschrift;
+    border-radius: 6px;
+    width: 9vw;
+    font-size: 1.3vmax;
+    height: 6vh;
+    background-color: rgb(253, 189, 0);
+    font-weight: bold;
+    border-top-color: black;
+    border-top-width: unset;
+    border-top-style: solid;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: unset;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: unset;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: unset;
+}
+
+#subject-input{
+    font-size: 1.3vmax;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 3vw;
+    border-top-color: #FD9B07;
+    border-top-width: 0.3vh;
+    border-top-style: solid;
+    border-right-color: #FD9B07;
+    border-right-style: solid;
+    border-right-width: 0.15vw;
+    border-bottom-color: #FD9B07;
+    border-bottom-style: solid;
+    border-bottom-width: 0.3vh;
+    border-left-color: #FD9B07;
+    border-left-style: solid;
+    border-left-width: 0.15vw;
+}
+
+.subject-form-search {
+    color: black;
+    font-size: 1.3vmax;
+    font-family: Bahnschrift;
+}
+
+#credit-register-div-2{
+    width: 100vw;
+    height: 40vh;
+    margin-top: 15vh;
+}
+
+#subject-in-semester-result{
+    width: 70vw;
+    height: 40vh;
+    float: left;
+}
+
+#combo-box-subject{
+    width: 25vw;
+    margin-top: 14vh;
+}
+
+.text-div-2{
+    height: 10vh;
+    font-family: Bahnschrift;
+}
+
+table{
+    margin-left: 2vw;
+    margin-top: 7vh;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    height: 5vh;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    width: 10vw;
+    border: 1px solid black;
+    border-collapse: collapse;
+    white-space: pre-line;
+}
+.title{
+    color: white;
+    background-color: blue;
+    font-size: 1.5vmax;
+    text-align: center;
+}
+
+.choose-button{
+    margin-top: 2.5vh;
+    font-size: 1.5vmax;
+    font-family: Bahnschrift;
+    border-radius: 6px;
+    width: 5vw;
+    font-size: 0.9vmax;
+    height: 4vh;
+    background-color: rgb(253, 189, 0);
+    font-weight: bold;
+    border-top-color: black;
+    border-top-width: unset;
+    border-top-style: solid;
+    border-right-color: black;
+    border-right-style: solid;
+    border-right-width: unset;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: unset;
+    border-left-color: black;
+    border-left-style: solid;
+    border-left-width: unset;
+}
+
+#credit-register-div-3{
+    height: 75vh;
+}
+
+#credit-register-div-4{
+    height: 75vh;
+}
+
+#list-class-label{
+    color: black;
+    font-family: Bahnschrift;
+    height: 3vh;
+    margin-left: 1vw;
+    width: 100vw;
+    font-size: 1.5vmax;
+}
+
+#div-save-form{
+    font-family: Bahnschrift;
+    width: 100vw;
+    height: 5vh;
+    margin-left: 2vw;
+    float: left;
+    margin-top: 4vh;
+}
+
+
+#total-cost{
+    font-weight: bold;
+    margin-top: 3vh;
+    margin-left: 38vw;
+}
+
+#notify{
+    height: 5vh;
+    font-family: Bahnschrift;
+    margin-left: 14vw;
+    margin-top: 14vh;
+    color: red;
+    font-weight: bold;
+}

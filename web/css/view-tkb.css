@@ -1,0 +1,39 @@
+#view-tkb-home{
+    background-size: 100vw 100vh; width: 100vw; height: 100vh;
+}
+
+table{
+    margin-left: 2vw;
+    margin-top: 7vh;
+    color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr{
+    height: 5vh;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th{
+    width: 10vw;
+    border: 1px solid black;
+    border-collapse: collapse;
+    white-space: pre-line;
+}
+.title{
+    color: white;
+    background-color: blue;
+    font-size: 1.5vmax;
+    text-align: center;
+}
+
+#class-result{
+    text-align: center;
+}
+
+#view-tkb-home{
+    width: 100vw;
+    min-height: 85vh;
+    background-size: 100vw;
+}
